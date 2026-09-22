@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Local Environment Secrets
+.env
+
+# SQLite runtime temporary files
+*.db-wal
+*.db-shm
+
+# System / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
